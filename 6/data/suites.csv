@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Oct 26 17:15:17 GMT 2022","Wed Oct 26 17:15:25 GMT 2022","8169","","com.wegotrip.AnnotationStepsTest","","com.wegotrip.AnnotationStepsTest","testAnnotatedStep","testAnnotatedStep()",""
-"passed","Wed Oct 26 17:15:28 GMT 2022","Wed Oct 26 17:15:31 GMT 2022","2407","","com.wegotrip.StepsTest","","com.wegotrip.StepsTest","testLambdaStep","testLambdaStep()",""
-"passed","Wed Oct 26 17:15:26 GMT 2022","Wed Oct 26 17:15:28 GMT 2022","2679","","com.wegotrip.SelenideTest","","com.wegotrip.SelenideTest","testIssueSearch","testIssueSearch()",""
+"passed","Wed Nov 02 11:16:09 GMT 2022","Wed Nov 02 11:16:10 GMT 2022","1768","","com.wegotrip.StepsTest","","com.wegotrip.StepsTest","testLambdaStep","testLambdaStep()",""
+"passed","Wed Nov 02 11:15:58 GMT 2022","Wed Nov 02 11:16:06 GMT 2022","8391","","com.wegotrip.AnnotationStepsTest","","com.wegotrip.AnnotationStepsTest","testAnnotatedStep","testAnnotatedStep()",""
+"passed","Wed Nov 02 11:16:06 GMT 2022","Wed Nov 02 11:16:09 GMT 2022","2271","","com.wegotrip.SelenideTest","","com.wegotrip.SelenideTest","testIssueSearch","testIssueSearch()",""
